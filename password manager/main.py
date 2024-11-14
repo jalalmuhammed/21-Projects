@@ -1,5 +1,4 @@
-import csv
-from cryptography.fernet import
+
 
 password = input("enter master password: ")
 
