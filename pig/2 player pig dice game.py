@@ -54,7 +54,7 @@ while True:
     if user[1] >= 15 or user[2] >= 15:
         break
 
-#printing results
+#printing resultsc 
 if user[1] > user[2]:
     print(f"Player 1 Succeeded with a Score Of {user[1]}")
 elif user[2] > user[1]:
